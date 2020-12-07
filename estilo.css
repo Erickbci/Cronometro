@@ -1,0 +1,35 @@
+body {
+    background-color: #24292e;
+}
+
+.container {
+    text-align: center;
+}
+
+button {
+    background-color: blueviolet;
+    color: white;
+    font-size: 32px;
+    padding: 8px 20px;
+    cursor: pointer;
+    border: 1;
+    height: 50px;
+    border-color: black;
+    text-align: center;
+}
+
+h3 {
+    color: blueviolet;
+}
+
+h1 {
+    color: blueviolet;
+}
+
+select {
+    background-color: blueviolet;
+    color: white;
+    height: 30px;
+    border: 1;
+    border-color: black;
+}
